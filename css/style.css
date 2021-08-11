@@ -1,0 +1,41 @@
+*{
+	background-color: #FAFAD2;
+	font: Andale Mono, monospace;
+}
+
+title{
+	font: Andale Mono;
+
+
+}
+#links{
+	font-size: 20px;
+	text-align: center;
+}
+h1{
+	color: blue;
+	text-align: center;
+}
+
+#div input {
+	border: dashed;
+	color: red;
+	border-style: outset; 
+	padding: 5px;
+	margin: 10px;
+	border-radius: 10px;
+	font: Andale Mono;
+
+}
+#button{
+	background-color: yellow;
+	border-color: red;
+	padding: 8px;
+	margin-left: 49%;
+	
+}
+#div {
+text-align: center;
+}
+
+
